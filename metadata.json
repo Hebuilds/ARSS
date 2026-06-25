@@ -1,0 +1,6 @@
+{
+  "name": "Chef Arsène Delivery",
+  "description": "Premium online food delivery experience by Chef Arsène, featuring luxury gourmet creations, popular menu selections, healthy fitness meals, and instant WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
