@@ -210,7 +210,7 @@ export default function App() {
 
               {/* Main serif title, left-aligned, no inline portrait */}
               <h1 className="font-editorial text-3xl sm:text-5xl lg:text-5xl xl:text-6xl leading-tight tracking-tight text-white font-medium text-left">
-                <span>Gourmet Order Service</span>
+                <span>ARSS DELIVERY</span>
               </h1>
 
               {/* Gilded star separator */}
@@ -221,7 +221,7 @@ export default function App() {
 
               {/* Paragraph - short, premium, mobile-safe */}
               <p className="text-gray-400 text-sm max-w-[15rem] sm:max-w-md leading-relaxed font-sans font-light text-left">
-                Fine dining, delivered with precision.
+                Fine dining, delivered.
               </p>
 
               {/* Order and Explore buttons */}
